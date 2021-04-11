@@ -1,0 +1,7 @@
+Admin:
+Id: admin3342@gmail.com
+Password: 010203
+
+User:
+thanhhuyssx123@gmail.com
+Password: 010203

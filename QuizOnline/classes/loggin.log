@@ -1,0 +1,256 @@
+
+2021-02-04 17:07:17 INFO  MainController:133 - java.lang.NullPointerException
+2021-02-04 17:08:48 INFO  MainController:133 - java.lang.NullPointerException
+2021-02-06 09:53:06 INFO  MainController:133 - java.lang.NullPointerException
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:18 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:04:42 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:04:46 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:47 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:47 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:48 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:48 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:48 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:48 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:48 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:49 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:49 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:49 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:49 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:49 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:04:49 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:05 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:06 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:06 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:06 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:06 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:06 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:06 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:06 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:06 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:06 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:05:40 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:05:42 INFO  MainController:133 - java.lang.NullPointerException
+2021-02-06 11:06:24 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:06:24 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:06:24 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:06:24 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  AnswerMapper:28 - com.microsoft.sqlserver.jdbc.SQLServerException: The column name question_id is not valid.
+2021-02-06 11:07:52 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:08:39 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:08:41 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 11:08:46 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:09:19 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:09:36 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:09:39 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:09:55 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:23:14 INFO  AbstractDao:47 - com.microsoft.sqlserver.jdbc.SQLServerException: The value is not set for the parameter number 2.
+2021-02-06 11:42:39 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:46:15 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:46:21 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:46:26 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:46:42 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:46:50 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 11:47:07 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 12:04:49 INFO  AbstractDao:47 - com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near 'OFFSET'.
+2021-02-06 12:05:21 INFO  AbstractDao:47 - com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near 'OFFSET'.
+2021-02-06 12:07:25 INFO  AbstractDao:47 - com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near 'OFFSET'.
+2021-02-06 12:38:05 INFO  MainController:133 - java.lang.NullPointerException
+2021-02-06 13:12:54 INFO  MainController:133 - java.lang.NullPointerException
+2021-02-06 13:14:42 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 13:14:50 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-06 13:15:11 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 13:18:15 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 13:18:38 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 13:18:47 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-06 13:18:59 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 10:40:22 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 10:40:32 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 15:28:34 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 15:28:39 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 15:28:54 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 15:35:13 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 15:39:47 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 15:40:47 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 15:41:23 INFO  MainController:133 - java.lang.NullPointerException
+2021-02-07 15:41:24 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 15:41:28 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:41:33 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:41:37 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:41:41 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:41:45 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:41:49 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:41:53 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:41:57 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:01 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:05 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:09 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:13 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:17 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:21 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:25 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:29 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:33 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:37 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:41 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:45 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:49 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:53 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:42:57 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:43:01 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:43:05 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:43:09 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:43:13 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:43:17 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:43:21 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:43:25 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:43:29 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:43:33 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 15:43:37 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 16:35:55 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 16:35:59 INFO  QuizService:75 - java.lang.NullPointerException
+2021-02-07 16:36:41 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 16:42:15 INFO  QuizService:75 - java.lang.NullPointerException
+2021-02-07 16:42:56 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 16:43:23 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 16:48:57 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 16:50:31 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 16:51:13 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 16:53:18 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 16:54:09 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 16:56:22 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 17:02:53 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 17:06:44 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 19:00:37 INFO  MainController:133 - java.lang.ArrayIndexOutOfBoundsException: Array index out of range: 0
+2021-02-07 19:04:36 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 19:06:14 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 19:06:25 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 19:06:28 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 19:06:37 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 19:06:39 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 19:06:50 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 19:07:21 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 19:07:22 INFO  MainController:133 - java.lang.IllegalStateException: Cannot call sendError() after the response has been committed
+2021-02-07 19:12:11 INFO  AbstractDao:47 - com.microsoft.sqlserver.jdbc.SQLServerException: The multi-part identifier "q.question_id" could not be bound.
+2021-02-07 19:12:18 INFO  AbstractDao:47 - com.microsoft.sqlserver.jdbc.SQLServerException: The multi-part identifier "q.question_id" could not be bound.
+2021-02-07 19:12:31 INFO  AbstractDao:47 - com.microsoft.sqlserver.jdbc.SQLServerException: The multi-part identifier "q.question_id" could not be bound.
+2021-02-07 19:12:35 INFO  AbstractDao:47 - com.microsoft.sqlserver.jdbc.SQLServerException: The multi-part identifier "q.question_id" could not be bound.
+2021-02-07 19:13:17 INFO  AbstractDao:47 - com.microsoft.sqlserver.jdbc.SQLServerException: Ambiguous column name 'question_id'.
+2021-02-07 19:15:28 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 19:15:50 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 19:16:14 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 19:17:39 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:37:30 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:37:53 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:43:35 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:43:44 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:43:51 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:45:43 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:49:14 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:49:45 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:49:52 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:50:00 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:50:42 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:52:58 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:53:03 INFO  MainController:133 - java.lang.NumberFormatException: null
+2021-02-07 21:53:19 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:53:38 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:55:58 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:56:52 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:56:59 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:58:21 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:58:53 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:59:00 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:59:20 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:59:23 INFO  MainController:133 - java.lang.NullPointerException
+2021-02-07 21:59:29 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed
+2021-02-07 21:59:34 INFO  MainController:133 - java.lang.IllegalStateException: Cannot forward after response has been committed

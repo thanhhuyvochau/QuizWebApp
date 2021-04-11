@@ -1,0 +1,3 @@
+-Đã chỉnh sửa lại phần next,previous, finish submit không cần action.
+-Chỉnh database lại sửa các field time,numquestion => không còn set cứng nữa.
+
